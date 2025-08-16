@@ -1,5 +1,6 @@
-name,score
-Alice,85
-Bob,92
-Charlie,78
-Diana,95
+name,score,age
+Alice,85,20
+Bob,92,21
+Charlie,78,19
+Diana,95,22
+Evan,88,21
